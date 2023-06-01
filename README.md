@@ -26,6 +26,8 @@ changes should be applied in local machine
 
 C:\>git pull origin master
 
+Next start with rebase 
+
 
 
 
